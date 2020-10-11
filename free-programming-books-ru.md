@@ -524,7 +524,7 @@
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [The Linux Kernel Module Programming Guide](http://www.opennet.ru/docs/RUS/lkmpg26) - Peter Jay Salzman, Michael Burian, Ori Pomerantz
 * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
-* [Введение в Linux. Руководство по работе](https://younglinux.info/linuxintro) - Machtelt Garrels
+* [Введение в Linux. Руководство по работе](https://zenway.ru/uploads/knigi/vvedenie-v-linux-rukovodstvo-ru.pdf) - Machtelt Garrels (PDF)
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
 * [Внутреннее устройство Ядра Linux 2.4](http://www.opennet.ru/docs/RUS/lki) - Tigran Aivazian
 * [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
